@@ -9,3 +9,6 @@ In this workbook you will be able to monitor the “Analytics rules” in your w
 
 
 ![alt text](https://github.com/Ronmarsiano/PrivatePreviews/blob/main/AnalyticsEfficiency/AnalyticsEfficiencyBlack.png?raw=true)
+
+![alt text](https://github.com/Ronmarsiano/PrivatePreviews/blob/main/AnalyticsEfficiency/AnalyticsEfficiencyWhite.png?raw=true)
+
